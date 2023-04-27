@@ -1,6 +1,3 @@
-<p align="center">  
-<img src="">
-</p>
 <p align="center">
     sacrifice
 <p align="center">  
