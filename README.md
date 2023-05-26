@@ -12,4 +12,4 @@
 <p align="center">
 Currently learning JavaScript, Python
 <p align="center">
-    <a href="https://www.roblox.com/users/3077523961/profile">Roblox User target="_blank" </a>
+    <a href="https://www.roblox.com/users/3077523961/profile">Roblox User</a>
