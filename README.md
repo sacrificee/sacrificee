@@ -12,22 +12,9 @@
 <p align="center">
 <p align="center">
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-<br/>
-
-<a href="https://github.com/sacrificee">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sacrificee&theme=midnight-purple&show_icons=true" />
-</a>
-
-<br/>
-
 <h3> 📱 &nbsp;Redes sociais: </h3> 
 
  <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/sacrificee"/></a>
-  
 
- <a href="#" alt="Discord">
-  <img src="https://img.shields.io/badge/-Discord-5a96e6?style=flat-square&labelColor=5a96e6&logo=discord&logoColor=white&link=https://discord.gg/h0ust"/></a>
   
