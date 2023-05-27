@@ -10,7 +10,6 @@
   <img src="https://discord.c99.nl/widget/theme-4/726171363139911770.png"/>
 </p>
 <p align="center">
-Currently learning JavaScript, Python
 <p align="center">
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
