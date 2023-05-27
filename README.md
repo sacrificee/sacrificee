@@ -13,3 +13,6 @@
 Currently learning JavaScript, Python
 <p align="center">
     <a href="https://www.roblox.com/users/3077523961/profile">Roblox User</a>
+<a href="https://github.com/sacrificee">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sacrificee&theme=midnight-purple&show_icons=true" />
+</a>
