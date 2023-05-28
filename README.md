@@ -8,4 +8,4 @@
   <a href="https://github.com/sacrificee"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=27&duration=2000&pause=500&color=1040B3&vCenter=true&width=435&lines=;sacrifice.xyz;ecriminal.;💳)](https://git.io/typing-svg) <br>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31v42o74y7gq2krt6byixmiboebe&cover_image=true&theme=default&show_offline=false&background_color=080808&interchange=true&bar_color=a45b68&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31v42o74y71GLnyPuL45vOsZPs5iANcC&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1GLnyPuL45vOsZPs5iANcC&cover_image=true&theme=default&show_offline=false&background_color=080808&interchange=true&bar_color=a45b68&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31v42o74y71GLnyPuL45vOsZPs5iANcC&redirect=true)
